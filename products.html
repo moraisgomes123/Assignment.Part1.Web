@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Page title -->
+  <title>Products - TechMobiles</title>
+
+  <!-- External CSS -->
+  <link rel="stylesheet" href="css/style.css">
+
+  <!-- Internal CSS for layout and design -->
+</head>
+
+<body>
+
+  <!-- Website Header -->
+  <header>
+    <img src="image/logo.png" alt="Logo" class="logo" height="50">
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="products.html">Products</a></li>
+        <li><a href="enquiry.html">Enquiry</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <!-- Main Content Area -->
+  <main>
+    
+    <!-- Sidebar with Categories and Filters -->
+    <aside class="sidebar">
+      <h3>Categories</h3>
+      <ul>
+        <li><a href="#">Smartphones</a></li>
+        <li><a href="#">Phone Cases</a></li>
+        <li><a href="#">Chargers & Cables</a></li>
+        <li><a href="#">Wireless Earbuds</a></li>
+        <li><a href="#">Screen Protectors</a></li>
+        <li><a href="#">Smartwatch Bands</a></li>
+      </ul>
+
+      <!-- Filter options -->
+      <div class="filters">
+        <label for="price">Sort by Price</label>
+        <select id="price">
+          <option value="low-high">Low to High</option>
+          <option value="high-low">High to Low</option>
+        </select>
+
+        <label for="type">Filter by Type</label>
+        <select id="type">
+          <option value="all">All</option>
+          <option value="smartphone">Smartphone</option>
+          <option value="case">Phone Case</option>
+          <option value="charger">Charger</option>
+          <option value="earbuds">Earbuds</option>
+          <option value="protector">Screen Protector</option>
+          <option value="watch">Smartwatch Band</option>
+        </select>
+      </div>
+    </aside>
+    <!-- Product Listing Section -->
+    <div class="product-area">
+      <header>
+        <h1>Our Products</h1>
+        <p>Explore our wide range of mobile accessories designed to enhance your device experience.</p>
+        <h2>Featured Products</h2>
+      </header>
+      <!-- Grid of product cards -->
+      <div class="product-grid">
+        <!-- Product: Smartphone -->
+        <div class="product-card">
+          <img src="image/WhatsApp Image 2025-08-18 at 06.31.56_b809641c.jpg" alt="Phone">
+          <h3>SmartPhone</h3>
+          <p>The best mobile phone with High-quality.</p>
+          <a href="shop-mobile-phone.html" class="shop-button">Categories</a>
+        </div>
+        <!-- Product: Phone Case -->
+        <div class="product-card">
+          <img src="image/phonecase.jpeg" alt="Phone Case">
+          <h3>Phone Case</h3>
+          <p>Protective and stylish phone cases for all models.</p>
+          <a href="shop-phone-cases.html" class="shop-button">Categories</a>
+        </div>
+        <!-- Product: Chargers -->
+        <div class="product-card">
+          <img src="image/charger.jpeg" alt="Charger">
+          <h3>Chargers & Cables</h3>
+          <p>Fast-charging cables and adapters.</p>
+          <a href="shop-chargers-cables.html" class="shop-button">Categories</a>
+        </div>
+        <!-- Product: Earbuds -->
+        <div class="product-card">
+          <img src="image/earsphones.jpeg" alt="Wireless Earbuds">
+          <h3>Wireless Earbuds</h3>
+          <p>Crystal-clear sound with long battery life.</p>
+          <a href="shop-wireless-earbuds.html" class="shop-button">Categories</a>
+        </div>
+        <!-- Product: Screen Protectors -->
+        <div class="product-card">
+          <img src="image/screen Protecter.jpeg" alt="Screen Protector">
+          <h3>Screen Protectors</h3>
+          <p>Scratch-resistant tempered glass for extra safety.</p>
+          <a href="shop-screen-protectors.html" class="shop-button">Categories</a>
+        </div>
+        <!-- Product: Smartwatch Bands -->
+        <div class="product-card">
+          <img src="image/smart Watches.jpeg" alt="Smartwatch Band">
+          <h3>Smartwatch Bands</h3>
+          <p>Comfortable and adjustable bands for all watches.</p>
+          <a href="shop-smartwatch-bands.html" class="shop-button">Categories</a>
+        </div>
+      </div>
+    </div>
+  </main>
+  <!-- Footer Section -->
+  <footer>
+    <p>&copy; 2025 TechMobiles & Accessories</p>
+  </footer>
+  <!-- External JS (can be used for filters, sorting, etc.) -->
+  <script src="js/script.js"></script>
+</body>
+</html>
