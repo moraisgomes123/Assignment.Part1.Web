@@ -83,7 +83,6 @@ Each product could have: Product image, name/description and price
 ├── documents/ 
 
 
-
 ## Wireframes (Annotated) 
 -Homepage: 
 Header: Logo (left), navigation links (right) 
