@@ -7,42 +7,41 @@
 -**Student Number: ST10467009 
 
 
-## Project Overview  
-Name: TechMobiles & Accessories 
--TechMobiles & Accessories is a modern retail store specializes in mobile phone and accessories. The store expect quickly obtain a big number popularity offering cheap, affordable, high-quality tech accessories including smart phone, phone cases, chargers, wireless earbuds, screen protectors, and smartwatch bands.
+## Overview  
+TechMobiles & Accessories is a fresh and modern store that sells mobile phones and all kinds of accessories. The goal is to become popular quickly by offering affordable, good-quality items like smartphones, phone cases, chargers, wireless earbuds, screen protectors, and smartwatch bands.
 
 ## website goals and objectives
-Goals:
-To create a website that makes shopping for mobiles products super easy and stress-free. The site should look clean, work fast, and show products in a way that customers can quickly see what they want. We also want the site to build trust, so people know when they buy form us, they are getting good value and reliable service.
+Goals
+We want to build a website that makes shopping for mobile products super simple and stress-free. The site should look clean, load quickly, and show products in a way that helps customers find what they need right away. We also want people to trust us, so they feel confident that they’re getting good value and reliable service every time they shop.
 
-SMART OBJECTIVES
-Show all products with clean, high-quality pictures so customers can clearly see what they are getting.
-Add a smooth and shopping cart to make buying simple and quick.
-Make sure the site works perfectly on phones, tablets, and computers.
-Keep the layout easy to follow, so even first time visitors can find what they nedd without stress.
-Build an online shop that helps TechMobiles stand out and compete strongly with local stores.
+Objectives
+Show all products with clear, high-quality pictures so customers can see exactly what they’re getting.
+Make buying easy with a smooth, simple shopping cart.
+Ensure the website works well on phones, tablets, and computers.
+Keep the layout simple so even first-time visitors can find what they need without any hassle.
+Build an online store that helps TechMobiles stand out and compete with local shops.
 
 ## Website features and functionality
--Homepage: highlight products, current deals, and store contact ansd social media
--About us: company background, values,
--Products page: show the categories of mobiles and accessories.
--Product Category Pages
-  -shop-mobile-phone: List of mobiles phones with images, prices and details
-  -shop-chargers-cables: Chargers and cables product list
-  -shop-phone-case: Phone cases products
-  -shop-Screen-protectors: Screen protector products
-  -shop-smartwatch-bands: Smartwatch bans listing
-  -shop-wireless-earbuds: Wireless earbuds list
-Each product could have: Product image, name/description and price  
--Enquiry page: enquiry form for product questions
--Contact page: contac details, store hours, and social media links
+-Homepage: Show the main products, highlight current deals, and give quick access to store contacts and social media.
+-About Us: Tell the story of the company and share its values.
+-Products Page: Display all the different categories of mobiles and accessories.
+-Category Pages:
+-Mobile Phones: List of phones with pictures, prices, and details.
+-Chargers & Cables: Collection of charging cables and adapters.
+-Phone Cases: Different styles of phone cases.
+-Screen Protectors: Options for screen protectors.
+-Smartwatch Bands: Range of bands for smartwatches.
+-Wireless Earbuds: Selection of earbuds with details and prices.
+-Product Details: Each product should have a picture, name, short description, and price.
+-Enquiry Page: A simple form where customers can ask questions about products.
+-Contact Page: Store contact info, working hours, and links to social media.
 
 ## Timeline and Milestones 
--Week 1: Research and planning 
--Week 2-3: Wireframes and content collection 
--Week 4-5: Develoment(HTML, CSS, structure) 
--Week 6: Testing and debugging 
--Week 7: Submission and final review 
+-Week 1: Start with research and outline the plan
+-Weeks 2–3: Work on the wireframes and collect the needed content
+-Weeks 4–5: Build the site structure using HTML and CSS
+-Week 6: Test everything and fix any issues that come up
+-Week 7: Do a final check and hand in the project
 
 ## Website sitemap
 -Index.html : (home)
